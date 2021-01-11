@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/Akmenah/WoDice/BuildConfig.java
+ com.Akmenah.WoDice.BuildConfig

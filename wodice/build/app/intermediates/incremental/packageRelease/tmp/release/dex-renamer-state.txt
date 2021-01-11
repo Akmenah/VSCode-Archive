@@ -1,0 +1,4 @@
+#Mon Jan 11 11:12:41 EET 2021
+base.0=C\:\\Users\\cak19\\VisualCode Projects\\VSCode-Archive\\wodice\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
