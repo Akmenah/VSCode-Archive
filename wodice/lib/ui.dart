@@ -16,22 +16,28 @@ class HomeState extends State<WoDiceHome> {
   var _epic = false;
   var _helpString = '''
 \n\n\n
-Hi, this is Akmenah. This is WoDice Roller for helping your fun.
+Hi, this is Akmenah. And this is WoDice Roller for helping your fun.
 If you are confused with app, do not panic. Here is a brief explenation:
+
 
 Dice Pool: It is the amount of d10s being rolled for attempting an action.
 (We seperated it by 10s and 1s for epic characters)
+
 
 Botchable: For botchable rolls, dice results of 1s extracted from successes.
 (Each 1 extracted from a success die)
 (If there is no successes left, roll botchs)
 
+
 Specalized: For specialized rolls, dice results of 10s count as double success.
 (Botches being extracted from 10s first)
 (So each 1 cancels a 10, a double success)
 
+
 Difficulty: Difficulty is the point where dice are counts as success.
 (For a difficulty of 7, a result of {2}, {7}, {9} is equals to 2 successes)
+
+
 ''';
 
   void changeHome() {
